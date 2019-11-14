@@ -1,2 +1,2 @@
 # Discrete-Fourier-Transform-in-C
-To find the discrete fourier transform of a array in C.
+ A C program to find the discrete fourier transform in a given array.
